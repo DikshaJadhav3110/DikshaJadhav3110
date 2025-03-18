@@ -1,6 +1,6 @@
 ### Hi there, I'm Diksha Jadhav! 👋
 
-I'm a passionate **Full-Stack Developer** and **UI/UX Enthusiast** with experience in building impactful applications. I love working on real-world projects that enhance user experience and solve critical problems. 
+I'm a passionate **Full-Stack Developer** and **Backend Enthusiast** with experience in building impactful applications. I love working on real-world projects that enhance user experience and solve critical problems. 
 
 ---
 
