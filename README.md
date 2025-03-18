@@ -1,16 +1,50 @@
-## Hi there 👋
+### Hi there, I'm Diksha Jadhav! 👋
 
-<!--
-**DikshaJadhav3110/DikshaJadhav3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full-Stack Developer** and **UI/UX Enthusiast** with experience in building impactful applications. I love working on real-world projects that enhance user experience and solve critical problems. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Experience
+### **Backend Developer Intern** – Mahanagar Telephone Nigam Limited (MTNL)  
+📅 *June 2023 – July 2023*  
+- Developed **FaultVerse**, a complaint management app with **OTP-based login** to streamline issue reporting and technician workflow.
+- Utilized **Java, Android SDK, Oracle, and Firebase** to automate service resolution and data tracking.
+
+---
+
+## 🚀 Projects
+### **Vidyaniketan International Academy – School Management App** *(Jan 2024 – May 2024)*  
+- Designed and developed a **comprehensive app** for students and teachers, featuring **attendance tracking, report generation, assignments, bus tracking, events, quizzes, and timetables**.
+- Integrated **user authentication and OTP login** using **Flutter, Dart, and Firebase** for a seamless and secure experience.
+
+### **Car Parking Management System** *(Diploma Project)*  
+- Displays **real-time parking availability** based on location, time, and vehicle type.
+- Developed using **React** with an **intuitive and responsive UI**.
+- Enhances user experience by providing **seamless navigation and booking options**.
+
+---
+
+## 🏆 Hackathon Projects
+### **ReeLabs – Medicine Ecommerce App**  
+- Developed using **Flutter, Firebase, and Dart**, integrating features for **both admin and customer functionalities**.
+
+### **PanelTech Website**  
+- Developed a **website for PanelTech** to display products and company information.
+- Implemented **email contact, login system, and admin dashboard**, tailored for **global outreach** using **PHP, HTML, CSS, and Bootstrap**.
+
+---
+
+## 💻 Technical Skills
+- **Programming Languages:** C, C++, Java, Python, PHP, JavaScript, Dart, PL/SQL
+- **Libraries & Frameworks:** Flutter, React, Node.js
+- **Databases:** MySQL, Oracle, Firebase
+- **Tools & Platforms:** GitHub, VS Code, Android Studio
+- **Other Skills:** HTML, CSS, XML
+
+---
+
+## 📫 Connect with Me
+- **GitHub:** [github.com/DikshaJadhav](https://github.com/DikshaJadhav)
+- **LinkedIn:** [linkedin.com/in/DikshaJadhav](https://www.linkedin.com/in/DikshaJadhav)
+
+Let's collaborate and build something amazing! 🚀
