@@ -44,7 +44,7 @@ I'm a passionate **Full-Stack Developer** and **UI/UX Enthusiast** with experien
 ---
 
 ## 📫 Connect with Me
-- **GitHub:** [github.com/DikshaJadhav](https://github.com/DikshaJadhav)
-- **LinkedIn:** [linkedin.com/in/DikshaJadhav](https://www.linkedin.com/in/DikshaJadhav)
+- **GitHub:** [github.com/DikshaJadhav](https://github.com/DikshaJadhav3110)
+- **LinkedIn:** [linkedin.com/in/DikshaJadhav]([https://www.linkedin.com/in/DikshaJadhav](https://www.linkedin.com/in/dikshajadhav1/))
 
 Let's collaborate and build something amazing! 🚀
