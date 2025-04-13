@@ -17,11 +17,6 @@ I'm a passionate **Full-Stack Developer** and **Backend Enthusiast** with experi
 - Designed and developed a **comprehensive app** for students and teachers, featuring **attendance tracking, report generation, assignments, bus tracking, events, quizzes, and timetables**.
 - Integrated **user authentication and OTP login** using **Flutter, Dart, and Firebase** for a seamless and secure experience.
 
-### **Car Parking Management System** *(Diploma Project)*  
-- Displays **real-time parking availability** based on location, time, and vehicle type.
-- Developed using **React** with an **intuitive and responsive UI**.
-- Enhances user experience by providing **seamless navigation and booking options**.
-
 ---
 
 ## 🏆 Hackathon Projects
